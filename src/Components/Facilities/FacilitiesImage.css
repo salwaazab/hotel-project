@@ -1,0 +1,36 @@
+
+.facilities-img{
+    margin-bottom: 170px;
+}
+
+
+.fac-img{
+     width: 1300px;
+    height: 900px;
+    margin-left: 110px;
+
+    z-index: -1;
+    position: relative;
+    
+    
+}
+
+.fig-cap{
+
+width: 600px;
+height: 75px;
+margin-left: 400px;
+background-color:white;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 59px;
+
+text-align: center;
+
+color: #14274A;
+margin-top: -1.5em;
+z-index: 1;
+}
+

@@ -1,0 +1,71 @@
+
+.slider figure{
+    margin-left: 0;
+    margin-top: 0;
+}
+.rooms-img{
+    width: 1120px;
+    height: 910px;
+    margin-left: 130px;
+    margin-bottom: 70px;
+    border: 2px solid #14274A;
+    border-radius: 0px 0px 15px 15px;
+    
+}
+
+.room-figcaption{
+    width: 1120px;
+    height: 130px;
+    background-color: #14274A;
+    color: white;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+}
+
+.room-detail{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+
+
+.plus-div{
+    display:flex;
+    flex-direction: row;
+}
+
+.plus{
+    Width :51px;
+    Height :51px;
+    color: #E0B973;
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+margin-right: 30px;
+}
+ .view-more{
+    color:#14274A ;
+    font-size: 20px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+
+
+}
+
+.room-btn{
+    background-color: #E0B973;
+border-radius: 1px;
+Width :250px;
+Height :70px;
+color: white;
+}

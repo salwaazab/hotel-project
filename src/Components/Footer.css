@@ -1,0 +1,28 @@
+.footer{
+
+     width:1530px;
+     height: 320px;
+     background-color: #14274A;
+     display: flex;
+     /* flex-direction: row; */
+     justify-content: space-between;
+}
+
+.footer ul{
+
+     display: block;
+     float: left;
+
+}
+.footer li {
+     text-align: left;
+}
+
+#textfield{
+     border-color:#E0B973;
+     background-color: #14274A;
+     color: white;
+}
+#button{
+     background-color: #E0B973;
+}

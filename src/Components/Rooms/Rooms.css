@@ -1,0 +1,29 @@
+#rooms-and-rates{
+ font-family: Adobe Garamond Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #14274A;
+
+}
+
+.rooms-and-rates-pra{
+    Width :1000px;
+Height :107px;
+margin-left: 215px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #14274A;
+
+}

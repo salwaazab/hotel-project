@@ -1,0 +1,75 @@
+
+
+.body-contact-us{
+    margin-left: 140px;
+    width: 1000px;
+    height: 1300px;
+}
+h4{
+    font-family: Adobe Garamond Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+
+
+color: #14274A;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.input-msg{
+    Width :500px;
+    Height:300px;
+
+}
+.submit{
+ 
+    Width :120px;
+    Height :50px;
+    margin-top: 50px;
+    margin-left: 400px;
+background: #E0B973;
+border-radius: 1px;
+}
+.contact-us-details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.address{
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 49px;
+
+color: #14274A;
+
+}
+
+.view-map{
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 49px;
+
+color: #14274A;
+}
+.email-and-phone{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 49px;
+
+color: #14274A;
+}
